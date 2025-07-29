@@ -1,1 +1,1 @@
-grow-wise
+Grow-Wise is an AI-based web platform designed to support farmers and agricultural professionals with smart decision-making tools. It integrates emotion-aware chatbot support, crop recommendation, yield prediction, and real-time weather analysis to empower sustainable and efficient farming practices.
